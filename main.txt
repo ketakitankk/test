@@ -1,3 +1,4 @@
 Hello world
 New_feature text
 Local change
+Remote change

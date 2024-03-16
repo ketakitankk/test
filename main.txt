@@ -1,1 +1,2 @@
 Hello world
+New_feature text

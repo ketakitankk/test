@@ -1,7 +1,0 @@
-Hello world
-New_feature text
-<<<<<<< HEAD
-Local repository edit made
-=======
-remote repository edit made
->>>>>>> 8614f17d7c7848c1ae7d33af2335265b96fae5e9

@@ -1,3 +1,0 @@
-Hello world
-New_feature text
-remote repository edit made
